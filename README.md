@@ -12,7 +12,7 @@ This URL is a video that demonstrates all you can do with EchoAR's cool technolo
 ### Wolfram Alpha API
 [Wolfram Alpha Homepage](https://www.wolframalpha.com)
 
-[Wolfram Alpha Redemption](https://account.wolfram.com/redeem/CutieHack112020) **Needs to be updated**
+[Wolfram Alpha Redemption](https://account.wolfram.com/redeem/zCutieHack1120)
  
 This URL will take you to a sign-in page and prompt you to log in using your Wolfram ID. If you don't already have a Wolfram ID, you'll be prompted to create one using an active email address. Once logged in, you will see in the Downloads section which platforms of the software you have access to, with their accompanying activation keys. Please download the desktop version to your machine, boot up the application and use the associated activation key when prompted. This will grant you full access for 30 days from your activation date.
 
@@ -26,7 +26,7 @@ To view your account details-- including your available Cloud Credits and Cloud 
 https://account.wolfram.com/products
 
 ### XYZ Domain Service
-[Video On XYZ Domain Service](https://www.dropbox.com/s/7v8tch5i24h0vv2/video-instructions_how-to-rregister-domain-xyz.mp4?dl=0)
+[Video On XYZ Domain Service](https://www.youtube.com/watch?v=3VnZNWs573o&feature=youtu.be&utm_source=hackathons&utm_medium=hackathon-instructions&utm_campaign=hackathons)
 
 Instructions on registering your free .xyz domain:
 1. [Search for your .xyz domain](https://gen.xyz/register), then “Go to checkout”
