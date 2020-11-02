@@ -3,7 +3,6 @@ Some helpful guides and tutorials to point hackers in the right direction at Cut
 
 ### Table of Contents
 [EchoAR](#echoar)
-[Wolfram Alpha](#wolfram)
 
 ## Sponsor APIs and Services
 
