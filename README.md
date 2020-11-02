@@ -2,7 +2,7 @@
 Some helpful guides and tutorials to point hackers in the right direction at Cutie Hack 2020! :tangerine: 
 
 ### Table of Contents
-[EchoAR](###echoar)
+[EchoAR](#echoar)
 [Wolfram Alpha](#wolfram)
 
 ## Sponsor APIs and Services
@@ -14,8 +14,6 @@ Some helpful guides and tutorials to point hackers in the right direction at Cut
 [Video on EchoAR Workshop Tutorial](https://www.youtube.com/watch?v=WlstP0i2GnQ)
 
 This URL is a video that demonstrates all you can do with EchoAR's cool technologies.
-
-<a name="wolfram"/>
 
 ### Wolfram Alpha API
 [Wolfram Alpha Homepage](https://www.wolframalpha.com)
