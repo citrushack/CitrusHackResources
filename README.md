@@ -157,9 +157,6 @@ Common Front-End Frameworks/Tools (used in conjunction with vanilla HTML/CSS/Jav
 
 ## Hardware Hacking :nut_and_bolt: :hammer: 
 
-Hardware Lab
-* Check out the official map on the [Cutie Hack Live](https://cutiehack.io/#/live) page for the location of our Hardware/Tech Lab
-
 Arduino IDE
 * the [official integrated development environment](https://www.arduino.cc/en/Main/Software) for Arduino programming
 * optimized for uploading code to Arduino microcontrollers
