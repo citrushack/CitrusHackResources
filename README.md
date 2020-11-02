@@ -2,7 +2,16 @@
 Some helpful guides and tutorials to point hackers in the right direction at Cutie Hack 2020! :tangerine: 
 
 ### Table of Contents
-[EchoAR](#echoar)
+[EchoAR](#echoar)  
+[Wolfram](#wolfram-alpha-api)  
+[XYZ Domain](#xyz-domain-service)  
+[Terminal](#prepping-your-terminal-computer)  
+[Github](#gitgithub)  
+[Programming Languages](#general-purpose-programming-languages)  
+[Web Development](#web-development)  
+[Hardware](#hardware-hacking-nut_and_bolt-hammer)  
+[Virtual/Augmented Reality](#virtualaugmented-reality)  
+[Mobile Development](#mobile-development-iphone)
 
 ## Sponsor APIs and Services
 
@@ -158,6 +167,13 @@ Arduino IDE
 Note: Soldering is **not allowed** at Cutie Hack.
 
 ## Virtual/Augmented Reality
+
+[EchoAR Homepage](https://www.echoar.xyz)
+
+[Video on EchoAR Workshop Tutorial](https://www.youtube.com/watch?v=WlstP0i2GnQ)
+
+This URL is a video that demonstrates all you can do with EchoAR's cool technologies.
+
 [Unity]([https://unity3d.com/unity/whats-new/unity-2017.3.1)
 * a real-time 3D development platform
 * drag and drop static assets into your 3D scene
