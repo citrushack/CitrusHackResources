@@ -47,7 +47,7 @@ Instructions on registering your free .xyz domain:
 2. Select a 1 year term
 3. Click “Next: Recommended Add-Ons” and choose any add-ons you’d like
 4. Click “Next: Information & Checkout”
-o Enter promo code: CUTIEHACK→ new total is $0.00
+o Enter promo code: CUTIE20 → new total is $0.00
 5. Enter your contact details
 6. Choose PayPal or Credit Card as preferred payment method
 7. Check ✓ the box next to “I agree to...”
