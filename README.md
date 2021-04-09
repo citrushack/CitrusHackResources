@@ -1,10 +1,8 @@
-# Cutie Hack 2020 - Hacker Resources
+# Citrus Hack 2021 - Hacker Resources
 Some helpful guides and tutorials to point hackers in the right direction at Cutie Hack 2020! :tangerine: 
 
 ### Table of Contents
-[EchoAR](#echoar)  
 [Wolfram](#wolfram-alpha-api)  
-[XYZ Domain](#xyz-domain-service)  
 [Terminal](#prepping-your-terminal-computer)  
 [Github](#gitgithub)  
 [Programming Languages](#general-purpose-programming-languages)  
@@ -14,14 +12,6 @@ Some helpful guides and tutorials to point hackers in the right direction at Cut
 [Mobile Development](#mobile-development-iphone)
 
 ## Sponsor APIs and Services
-
-### EchoAR
-
-[EchoAR Homepage](https://www.echoar.xyz)
-
-[Video on EchoAR Workshop Tutorial](https://www.youtube.com/watch?v=WlstP0i2GnQ)
-
-This URL is a video that demonstrates all you can do with EchoAR's cool technologies.
 
 ### Wolfram Alpha API
 [Wolfram Alpha Homepage](https://www.wolframalpha.com)
@@ -36,21 +26,6 @@ The fastest way to get an API up and running is detailed in the extensive Docume
 
 To view your account details-- including your available Cloud Credits and Cloud storage-- or re-download Wolfram|One, visit the following page:
 https://account.wolfram.com/products
-
-### XYZ Domain Service
-[Video On XYZ Domain Service](https://www.youtube.com/watch?v=3VnZNWs573o&feature=youtu.be&utm_source=hackathons&utm_medium=hackathon-instructions&utm_campaign=hackathons)
-
-Instructions on registering your free .xyz domain:
-1. [Search for your .xyz domain](https://gen.xyz/register), then “Go to checkout”
-2. Select a 1 year term
-3. Click “Next: Recommended Add-Ons” and choose any add-ons you’d like
-4. Click “Next: Information & Checkout”
-o Enter promo code:  → new total is $0.00
-5. Enter your contact details
-6. Choose PayPal or Credit Card as preferred payment method
-7. Check ✓ the box next to “I agree to...”
-8. Click “Submit Order”
-
 
 ## Prepping Your Terminal :computer:
 The **terminal** on your computer, when the right resources are installed, is a powerful tool for running your code and building applications. Chances are, factory settings on your hacking machine aren't gonna cut it to streamline building your application/idea. 
