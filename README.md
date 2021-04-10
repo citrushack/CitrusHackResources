@@ -3,6 +3,7 @@ Some helpful guides and tutorials to point hackers in the right direction at Cit
 
 ### Table of Contents
 [Hopin and Devpost](#hopin-and-devpost-demo)  
+[Twilio](#twilio-docs)  
 [Wolfram](#wolfram-alpha-api)  
 [Terminal](#prepping-your-terminal-computer)  
 [Github](#gitgithub)  
@@ -20,6 +21,10 @@ Some helpful guides and tutorials to point hackers in the right direction at Cit
 
 
 ## Sponsor APIs and Services
+
+### Twilio Docs
+
+[Twilio Documentation](https://www.twilio.com/docs)
 
 ### Wolfram Alpha API
 [Wolfram Alpha Homepage](https://www.wolframalpha.com)
