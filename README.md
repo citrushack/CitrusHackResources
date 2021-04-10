@@ -5,6 +5,7 @@ Some helpful guides and tutorials to point hackers in the right direction at Cit
 [Hopin and Devpost](#hopin-and-devpost-demo)  
 [Google Cloud](#google-cloud-docs)  
 [Digital Ocean](#digital-ocean-docs)  
+[Sketch](#sketch-docs)  
 [Twilio](#twilio-docs)  
 [Wolfram](#wolfram-alpha-api)  
 [Terminal](#prepping-your-terminal-computer)  
@@ -31,6 +32,10 @@ Some helpful guides and tutorials to point hackers in the right direction at Cit
 ### Digital Ocean Docs
 
 [Digital Ocean Documentation](https://docs.digitalocean.com/products/)
+
+### Sketch Docs
+
+[Sketch Documentation](https://www.sketch.com/docs/)
 
 ### Twilio Docs
 
