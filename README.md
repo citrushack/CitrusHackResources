@@ -3,6 +3,7 @@ Some helpful guides and tutorials to point hackers in the right direction at Cit
 
 ### Table of Contents
 [Hopin and Devpost](#hopin-and-devpost-demo)  
+[Google Cloud](#google-cloud-docs)  
 [Twilio](#twilio-docs)  
 [Wolfram](#wolfram-alpha-api)  
 [Terminal](#prepping-your-terminal-computer)  
@@ -21,6 +22,10 @@ Some helpful guides and tutorials to point hackers in the right direction at Cit
 
 
 ## Sponsor APIs and Services
+
+### Google Cloud Docs
+
+[Google Cloud Homepage](https://cloud.google.com)
 
 ### Twilio Docs
 
