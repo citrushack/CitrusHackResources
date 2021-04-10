@@ -2,7 +2,7 @@
 Some helpful guides and tutorials to point hackers in the right direction at Citrus Hack 2021! :tangerine: 
 
 ### Table of Contents
-[Hopin and Devpost](#hopin-and-devpost-demo)
+[Hopin and Devpost](#hopin-and-devpost-demo)  
 [Wolfram](#wolfram-alpha-api)  
 [Terminal](#prepping-your-terminal-computer)  
 [Github](#gitgithub)  
