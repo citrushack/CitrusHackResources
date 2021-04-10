@@ -2,6 +2,7 @@
 Some helpful guides and tutorials to point hackers in the right direction at Citrus Hack 2021! :tangerine: 
 
 ### Table of Contents
+[Hopin and Devpost](#hopin-and-devpost-demo)
 [Wolfram](#wolfram-alpha-api)  
 [Terminal](#prepping-your-terminal-computer)  
 [Github](#gitgithub)  
@@ -10,6 +11,13 @@ Some helpful guides and tutorials to point hackers in the right direction at Cit
 [Hardware](#hardware-hacking-nut_and_bolt-hammer)  
 [Virtual/Augmented Reality](#virtualaugmented-reality)  
 [Mobile Development](#mobile-development-iphone)
+
+## Submissions and Demos
+
+### Hopin and Devpost Demo
+
+[Submission demo here!](https://www.youtube.com/watch?v=scYn46QSWrc)
+
 
 ## Sponsor APIs and Services
 
