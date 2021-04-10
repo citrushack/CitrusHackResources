@@ -1,5 +1,5 @@
 # Citrus Hack 2021 - Hacker Resources
-Some helpful guides and tutorials to point hackers in the right direction at Cutie Hack 2020! :tangerine: 
+Some helpful guides and tutorials to point hackers in the right direction at Citrus Hack 2021! :tangerine: 
 
 ### Table of Contents
 [Wolfram](#wolfram-alpha-api)  
