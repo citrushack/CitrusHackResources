@@ -136,12 +136,6 @@ Arduino IDE
 
 ## Virtual/Augmented Reality
 
-[EchoAR Homepage](https://www.echoar.xyz)
-
-[Video on EchoAR Workshop Tutorial](https://www.youtube.com/watch?v=WlstP0i2GnQ)
-
-This URL is a video that demonstrates all you can do with EchoAR's cool technologies.
-
 [Unity]([https://unity3d.com/unity/whats-new/unity-2017.3.1)
 * a real-time 3D development platform
 * drag and drop static assets into your 3D scene
