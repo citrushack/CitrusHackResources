@@ -134,8 +134,6 @@ Arduino IDE
 * the [official integrated development environment](https://www.arduino.cc/en/Main/Software) for Arduino programming
 * optimized for uploading code to Arduino microcontrollers
 
-Note: Soldering is **not allowed** at Citrus Hack.
-
 ## Virtual/Augmented Reality
 
 [EchoAR Homepage](https://www.echoar.xyz)
