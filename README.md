@@ -2,12 +2,12 @@
 Some helpful guides and tutorials to point hackers in the right direction at Cutie Hack 2021! :tangerine: 
 
 ### Table of Contents
-<!-- [Hopin and Devpost](#hopin-and-devpost-demo)   -->
-[Devpost](#devpost)
-<!-- [Google Cloud](#google-cloud-docs)   -->
-<!-- [Digital Ocean](#digital-ocean-docs)   -->
+<!-- [Hopin and Devpost](#hopin-and-devpost-demo) -->
+<!-- [Google Cloud](#google-cloud-docs) -->
+<!-- [Digital Ocean](#digital-ocean-docs) -->
+<!-- [Twilio](#twilio-docs) -->
+[Devpost](#devpost)  
 [Sketch](#sketch-docs)  
-<!-- [Twilio](#twilio-docs)   -->
 [Wolfram](#wolfram-alpha-api)  
 [Terminal](#prepping-your-terminal-computer)  
 [Github](#gitgithub)  
