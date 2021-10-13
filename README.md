@@ -1,12 +1,13 @@
-# Citrus Hack 2021 - Hacker Resources
-Some helpful guides and tutorials to point hackers in the right direction at Citrus Hack 2021! :tangerine: 
+# Citrus Hack - Hacker Resources
+Some helpful guides and tutorials to point hackers in the right direction at Cutie Hack 2021! :tangerine: 
 
 ### Table of Contents
-[Hopin and Devpost](#hopin-and-devpost-demo)  
-[Google Cloud](#google-cloud-docs)  
-[Digital Ocean](#digital-ocean-docs)  
+<!-- [Hopin and Devpost](#hopin-and-devpost-demo)   -->
+[Devpost](#devpost)
+<!-- [Google Cloud](#google-cloud-docs)   -->
+<!-- [Digital Ocean](#digital-ocean-docs)   -->
 [Sketch](#sketch-docs)  
-[Twilio](#twilio-docs)  
+<!-- [Twilio](#twilio-docs)   -->
 [Wolfram](#wolfram-alpha-api)  
 [Terminal](#prepping-your-terminal-computer)  
 [Github](#gitgithub)  
@@ -18,28 +19,32 @@ Some helpful guides and tutorials to point hackers in the right direction at Cit
 
 ## Submissions and Demos
 
-### Hopin and Devpost Demo
+<!-- ### Hopin and Devpost Demo
 
-[Submission demo here!](https://www.youtube.com/watch?v=scYn46QSWrc)
+[Submission demo here!](https://www.youtube.com/watch?v=scYn46QSWrc) -->
+
+### Devpost
+
+[Submit your projects here!](https://github.com/citrushack/CitrusHackResources)
 
 
 ## Sponsor APIs and Services
 
-### Google Cloud Docs
+<!-- ### Google Cloud Docs
 
-[Google Cloud Homepage](https://cloud.google.com)
+[Google Cloud Homepage](https://cloud.google.com) -->
 
-### Digital Ocean Docs
+<!-- ### Digital Ocean Docs
 
-[Digital Ocean Documentation](https://docs.digitalocean.com/products/)
+[Digital Ocean Documentation](https://docs.digitalocean.com/products/) -->
 
 ### Sketch Docs
 
 [Sketch Documentation](https://www.sketch.com/docs/)
 
-### Twilio Docs
+<!-- ### Twilio Docs
 
-[Twilio Documentation](https://www.twilio.com/docs)
+[Twilio Documentation](https://www.twilio.com/docs) -->
 
 ### Wolfram Alpha API
 [Wolfram Alpha Homepage](https://www.wolframalpha.com)
