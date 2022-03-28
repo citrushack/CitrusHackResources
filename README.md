@@ -3,9 +3,9 @@ Some helpful guides and tutorials to point hackers in the right direction at Cut
 
 ### Table of Contents
 <!-- [Hopin and Devpost](#hopin-and-devpost-demo) -->
-<!-- [Google Cloud](#google-cloud-docs) -->
-<!-- [Digital Ocean](#digital-ocean-docs) -->
-<!-- [Twilio](#twilio-docs) -->
+[Google Cloud](#google-cloud-docs)
+[Digital Ocean](#digital-ocean-docs)
+[Twilio](#twilio-docs)
 [Devpost](#devpost)  
 [Sketch](#sketch-docs)  
 [Wolfram](#wolfram-alpha-api)  
@@ -30,21 +30,21 @@ Some helpful guides and tutorials to point hackers in the right direction at Cut
 
 ## Sponsor APIs and Services
 
-<!-- ### Google Cloud Docs
+### Google Cloud Docs
 
-[Google Cloud Homepage](https://cloud.google.com) -->
+[Google Cloud Homepage](https://cloud.google.com)
 
-<!-- ### Digital Ocean Docs
+### Digital Ocean Docs
 
-[Digital Ocean Documentation](https://docs.digitalocean.com/products/) -->
+[Digital Ocean Documentation](https://docs.digitalocean.com/products/)
 
 ### Sketch Docs
 
 [Sketch Documentation](https://www.sketch.com/docs/)
 
-<!-- ### Twilio Docs
+### Twilio Docs
 
-[Twilio Documentation](https://www.twilio.com/docs) -->
+[Twilio Documentation](https://www.twilio.com/docs)
 
 ### Wolfram Alpha API
 [Wolfram Alpha Homepage](https://www.wolframalpha.com)
